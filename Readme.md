@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @0wos  
+- 💻 I develop using HTML, CSS, C#, and a bit of JavaScript  
+- 🎨 I enjoy animation, visual projects, and creative coding  
+- 📍 Based in France  
+- 🚧 Currently working on [NationPlume](https://github.com/0wos/NationPlume)
