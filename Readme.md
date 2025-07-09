@@ -45,7 +45,7 @@
 
 ### 🔗 Find Me
 
-- 📬 [colin.then](mailto:colin.then)
+- 📬 [colin.then](colinthenault@gmail.com)
 - 🌍 Based in France
 
 ---
