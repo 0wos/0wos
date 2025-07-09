@@ -1,22 +1,22 @@
-<h1 align="center">Salut 👋, moi c'est Colin (aka 0wos)</h1>
+<h1 align="center">Hi 👋, I'm Colin (aka 0wos)</h1>
 
 <p align="center">
-  🎨 Développeur & animateur<br>
-  💻 HTML • CSS • C# • JavaScript • Lua • un peu de Python<br>
-  📍 Basé en France
+  🎨 Developer & Animator<br>
+  💻 HTML • CSS • C# • JavaScript • Lua • a bit of Python<br>
+  📍 Based in France
 </p>
 
 ---
 
-### 🌱 À propos de moi
+### 🌱 About Me
 
-- 👾 J’aime expérimenter avec le code, surtout dans des projets créatifs ou interactifs.
-- 🎮 J’ai un intérêt pour l’animation (Lua) et les projets visuels dynamiques.
-- 🚀 Nouveau sur GitHub mais motivé pour partager mes projets au fur et à mesure.
+- 💻 I develop using HTML, CSS, C#, and a bit of JavaScript  
+- 🎨 I enjoy animation, visual projects, and creative coding  
+- 🚀 New to GitHub
 
 ---
 
-### 🧰 Langages & outils
+### 🧰 Languages & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -27,14 +27,14 @@
 
 ---
 
-### 📌 Projet en cours
+### 📌 Ongoing Project
 
 🔧 **[NationPlume](https://github.com/0wos/NationPlume)**  
-> Un projet visuel construit en HTML/CSS avec une touche d’animation.
+> A visual project built with HTML/CSS and a touch of animation.
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0wos&show_icons=true&theme=tokyonight" />
@@ -43,11 +43,11 @@
 
 ---
 
-### 🔗 Me retrouver
+### 🔗 Find Me
 
 - 📬 [colin.then](mailto:colin.then)
-- 🌍 Localisé en France
+- 🌍 Based in France
 
 ---
 
-> _“Créer, expérimenter, partager.”_
+> _“Create, experiment, share.”_
