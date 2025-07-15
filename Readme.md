@@ -29,7 +29,8 @@
 
 ### 📌 Ongoing Project
 
-🔧 **[NationPlume](https://github.com/0wos/NationPlume)**  
+🔧 **[NationPlume](https://github.com/0wos/NationPlume)**
+🔧 **[Grow A Garden But On Web](https://github.com/0wos/Grow-A-Garden)**
 > A visual project built with HTML/CSS and a touch of animation.
 
 ---
